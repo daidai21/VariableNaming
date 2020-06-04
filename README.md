@@ -96,6 +96,8 @@
 | tim | time |
 | fwd | forward |
 | fd | file descriptor |
+| delim | delimiter |
+| sep | separator |
 | **Math** | ----- |
 | fact | factorial |
 | gcd | greatest common divisor |
