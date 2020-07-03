@@ -58,6 +58,7 @@
 | SLO | service level objectives |
 | SLA | service level agreements |
 | TDD | test driven development |
+| rt | return |
 | **DataStructure and Algorithm** | ----- |
 | dim | dimensionality |
 | stk | stack |
