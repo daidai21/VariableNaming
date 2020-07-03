@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| dic | dictionary |
 | res | result |
 | ans | answer |
 | attr | attribute |
