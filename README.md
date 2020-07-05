@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| inst | install |
+| ins | install |
+| dsk | disk |
+| chk | check|
 | dic | dictionary |
 | res | result |
 | ans | answer |
