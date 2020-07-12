@@ -64,6 +64,7 @@
 | SLA | service level agreements |
 | TDD | test driven development |
 | rt | return |
+| TDD | Test-Driven Development |
 | **DataStructure and Algorithm** | ----- |
 | dim | dimensionality |
 | stk | stack |
