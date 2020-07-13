@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| jdbc | Java Database Connectivity |
 | inst | install |
 | ins | install |
 | dsk | disk |
