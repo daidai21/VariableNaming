@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| jsn | json |
 | jdbc | Java Database Connectivity |
 | inst | install |
 | ins | install |
