@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| util | utility |
+| biz | business|
+| dao | data access object |
 | jsn | json |
 | jdbc | Java Database Connectivity |
 | inst | install |
