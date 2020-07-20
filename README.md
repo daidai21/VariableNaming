@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| gmt | Greenwich Mean Time |
 | util | utility |
 | biz | business|
 | dao | data access object |
