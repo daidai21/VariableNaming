@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| evt | event |
 | gmt | Greenwich Mean Time |
 | util | utility |
 | biz | business|
