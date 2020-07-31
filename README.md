@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| DDD | Domain-Driven Design |
+| VO | view object |
 | evt | event |
 | gmt | Greenwich Mean Time |
 | util | utility |
