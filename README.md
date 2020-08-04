@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ord | order |
+| pkg | package |
+| crt | cart |
 | DDD | Domain-Driven Design |
 | VO | view object |
 | evt | event |
