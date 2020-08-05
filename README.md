@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| amt | amount |
+| pref | preference |
 | ord | order |
 | pkg | package |
 | crt | cart |
