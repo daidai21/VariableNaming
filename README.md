@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| UDF | user difine function |
 | amt | amount |
 | pref | preference |
 | ord | order |
