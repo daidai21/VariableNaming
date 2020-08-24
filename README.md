@@ -3,6 +3,14 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| PR | Pull Request |
+| LGTM | Looks Good To Me |
+| SGTM | Sounds Good To Me |
+| WIP | Work In Progress |
+| PTAL | Please Take A Look |
+| TBR | To Be Reviewed |
+| TL;DR | Too Long; Didn't Read |
+| TBD | To Be Done |
 | lvl | level |
 | UDF | user difine function |
 | amt | amount |
