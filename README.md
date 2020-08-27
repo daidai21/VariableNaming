@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| POJO | Plain Old Java Objects |
+| OGNL | Object Graph Navigation Language |
+| TP | third partnar |
+| SOP | Standard Operating Procedure |
 | PR | Pull Request |
 | LGTM | Looks Good To Me |
 | SGTM | Sounds Good To Me |
