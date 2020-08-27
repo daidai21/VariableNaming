@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| CRM | Customer Relation Management |
+| JWT | JSON Web Token |
+| DO | data object |
 | POJO | Plain Old Java Objects |
 | OGNL | Object Graph Navigation Language |
 | TP | third partnar |
