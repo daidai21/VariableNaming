@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| mvnw | Maven Wrapper |
+| dep | dependency |
+| MPI | message passing interface |
 | CRM | Customer Relation Management |
 | JWT | JSON Web Token |
 | DO | data object |
@@ -44,6 +47,7 @@
 | attr | attribute |
 | idx | index |
 | impl | implement |
+| impl | implementations |
 | val | value |
 | prev | previous / precursor |
 | pre | previous / precursor |
