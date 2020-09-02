@@ -3,6 +3,19 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| PO | persistant object |
+| VO | value object |
+| DAO | data access object |
+| BO | business object |
+| DTO | Data Transfer Object |
+| POJO | plain ordinary java object |
+| CC | Carbon Copy |
+| WIP | Work In Progress |
+| LGTM | Looks Good To Me Riview |
+| PTAL | Please Take A Look |
+| ACK | acknowledgement |
+| TPS | Transaction Per Second |
+| RDF | Resource Description Framework |
 | mvnw | Maven Wrapper |
 | dep | dependency |
 | MPI | message passing interface |
