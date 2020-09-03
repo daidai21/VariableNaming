@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| PTM | product test manager |
 | PO | persistant object |
 | VO | value object |
 | DAO | data access object |
