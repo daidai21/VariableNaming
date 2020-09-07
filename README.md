@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| CPM | Cost Per Mille |
+| CPC | Cost Per Click |
+| CPA | Cost Per Action |
 | PTM | product test manager |
 | PO | persistant object |
 | VO | value object |
