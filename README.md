@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| RCF | Remote Call Framework |
 | MBG | MyBatis Generator |
 | S | server |
 | H | handler |
