@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| MBG | MyBatis Generator |
+| S | server |
+| H | handler |
+| nv | non-volatile |
 | CPM | Cost Per Mille |
 | CPC | Cost Per Click |
 | CPA | Cost Per Action |
