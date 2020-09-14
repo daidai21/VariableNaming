@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| tpl | tuple |
+| AQS | AbstractQueuedSynchronizer |
+| TCC | Try Confirm Cancel |
+| SO | server object |
 | RCF | Remote Call Framework |
 | MBG | MyBatis Generator |
 | S | server |
@@ -112,7 +116,7 @@
 | clie | client |
 | clnt | client |
 | crt | create |
-| cxt | context |
+| ctx | context |
 | ctxt | context |
 | recv | receiver |
 | st | set |
