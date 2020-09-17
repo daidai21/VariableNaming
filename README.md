@@ -3,6 +3,19 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ref | reference |
+| unref | un reference |
+| deinit | Deinitialization |
+| RAII | Resource acquisition is initialization |
+| NPE | NullPointerException |
+| RFC | Request for Comments |
+| URL | uniform resource locator |
+| URI | uniform resource identifier |
+| dat | data |
+| fis | FileInputStream |
+| fos | FileOutputStream |
+| ZC | Zero Copy |
+| MPI | Message Passing Interface |
 | tpl | tuple |
 | AQS | AbstractQueuedSynchronizer |
 | TCC | Try Confirm Cancel |
