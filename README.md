@@ -2,7 +2,10 @@
 
 | Short Name | Full Name |
 | :-: | :-: |
+| HFT | High-frequency trading |
 | **Universal** | ----- |
+| SSO | SingleSignOn |
+| fn | function |
 | ref | reference |
 | unref | un reference |
 | deinit | Deinitialization |
