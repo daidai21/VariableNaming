@@ -2,8 +2,16 @@
 
 | Short Name | Full Name |
 | :-: | :-: |
-| HFT | High-frequency trading |
+| OSS | Object Storage Service |
 | **Universal** | ----- |
+| T | Type |
+| E | Element |
+| JUC | java.util.concurrent |
+| BQ | behavioral question |
+| OA | online assessment |
+| mk | make |
+| HFT | High-frequency trading |
+| IoT | Internet of Things |
 | SSO | SingleSignOn |
 | fn | function |
 | ref | reference |
