@@ -4,6 +4,10 @@
 | :-: | :-: |
 | OSS | Object Storage Service |
 | **Universal** | ----- |
+| lck | lock |
+| pt | partition |
+| UAT | User acceptance testing |
+| SSL | Secure Sockets Layer |
 | T | Type |
 | E | Element |
 | JUC | java.util.concurrent |
