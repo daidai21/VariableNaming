@@ -2,8 +2,10 @@
 
 | Short Name | Full Name |
 | :-: | :-: |
-| OSS | Object Storage Service |
 | **Universal** | ----- |
+| AQS | AbstractQueuedSynchronizer |
+| OOM | out of memory |
+| OSS | Object Storage Service |
 | lck | lock |
 | pt | partition |
 | UAT | User acceptance testing |
