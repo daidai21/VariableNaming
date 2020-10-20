@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| cal | calculation |
+| UAT | User Acceptance Test |
 | AQS | AbstractQueuedSynchronizer |
 | OOM | out of memory |
 | OSS | Object Storage Service |
@@ -78,7 +80,7 @@
 | TL;DR | Too Long; Didn't Read |
 | TBD | To Be Done |
 | lvl | level |
-| UDF | user difine function |
+| UDF | user define function |
 | amt | amount |
 | pref | preference |
 | ord | order |
