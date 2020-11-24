@@ -3,6 +3,15 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ACC | Annual Active Customer |
+| MBT | Model based testing |
+| bio | biography |
+| cls | class |
+| clazz | class |
+| AOP | Aspect Oriented Programming |
+| SPI | Service Provider Interface |
+| AO | Application Object |
+| TL;DR | Too Long; Didn't Read. |
 | cal | calculation |
 | UAT | User Acceptance Test |
 | AQS | AbstractQueuedSynchronizer |
@@ -213,6 +222,13 @@
 | os | operator system |
 | sys | system |
 | **Network** | ----- |
+| LVS | Linux Virtual Server |
+| RS | Real Server |
+| DS | Director Server |
+| VIP | Virtual IP address |
+| DIP | Directors IP address |
+| RIP | Real IP address |
+| CIP | Client IP address |
 | net | network |
 | sock | socket |
 | req | request |
@@ -229,4 +245,14 @@
 | enum | enumerate |
 | vec | vector |
 | chan | channel |
-
+| **Operations Manager** | ----- |
+| CPM | 每千人成本 |
+| CPT | 每时间段成本 |
+| CPC | 每点击成本 |
+| CPD | 每下载成本 |
+| CPI | 每安装成本 |
+| CPS | 每销售成本 |
+| ASO | App Store Optimization |
+| SEM | Search Engine Marketing |
+| PV | page view |
+| UV | user view |
