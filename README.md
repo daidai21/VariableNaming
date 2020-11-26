@@ -3,6 +3,20 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| PD | product designer / product director |
+| PM | product manager / project manager |
+| PE | Production Engineer |
+| PR | public relationship |
+| PTM | product test manager |
+| PDM | Product Data Management / product designer management |
+| UE | User Experience |
+| UX | User Experience |
+| UI | User Interface |
+| UID | User Interface Design |
+| UED | User Experience Design |
+| UCD | User Centered Design |
+| pt | Percentage |
+| FaaS | Function as a Service |
 | ACC | Annual Active Customer |
 | MBT | Model based testing |
 | bio | biography |
