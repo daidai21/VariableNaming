@@ -3,6 +3,19 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| CR | code review |
+| nil | null |
+| SKU | Stock Keeping Unit |
+| SPU | Standard Product Unit |
+| RT | Response-time |
+| OOM | Out of memory |
+| AAC | Annual Active Consumer |
+| ARPU | Average Revenue Per User |
+| TC | test case |
+| UID | User ID |
+| snd | send |
+| rcv | recive |
+| EOF | End Of File |
 | PD | product designer / product director |
 | PM | product manager / project manager |
 | PE | Production Engineer |
