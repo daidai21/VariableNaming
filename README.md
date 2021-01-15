@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| SLOC | Source lines of code |
 | CR | code review |
 | nil | null |
 | SKU | Stock Keeping Unit |
