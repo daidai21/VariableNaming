@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| qry | query |
+| FSM | finite-state machine |
+| BFF | Backends for frontends |
+| PMO | Project management office |
 | SLOC | Source lines of code |
 | CR | code review |
 | nil | null |
