@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ROI | return-on-investment |
 | qry | query |
 | FSM | finite-state machine |
 | BFF | Backends for frontends |
