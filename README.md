@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| APM | Application Performance Management |
+| BPM | Business Process Management |
 | ROI | return-on-investment |
 | qry | query |
 | FSM | finite-state machine |
@@ -14,7 +16,6 @@
 | SKU | Stock Keeping Unit |
 | SPU | Standard Product Unit |
 | RT | Response-time |
-| OOM | Out of memory |
 | AAC | Annual Active Consumer |
 | ARPU | Average Revenue Per User |
 | TC | test case |
