@@ -2,7 +2,21 @@
 
 | Short Name | Full Name |
 | :-: | :-: |
+| **Conetnt** | ----- |
+| UGC | User Generated Content |
+| PGC | Professionally-generated Content |
+| OGC | Occupationally Generated Content |
+| MGC | Machine Generated Content |
+| PUGC | Professional User Generated Content |
+| MCNGC | Multi-Channel Network Generated Content |
+| BGC | Brand Generated Content |
+| AGC | Advertising Generated Content |
+| GGC | Government Generated Content |
+| CGC | Company Generated Content |
 | **Universal** | ----- |
+| MCN | Multi-Channel Network |
+| byr | buyer |
+| SEO | search-engine-optimization |
 | APM | Application Performance Management |
 | BPM | Business Process Management |
 | ROI | return-on-investment |
