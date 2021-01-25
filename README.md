@@ -41,7 +41,6 @@
 | PM | product manager / project manager |
 | PE | Production Engineer |
 | PR | public relationship |
-| PTM | product test manager |
 | PDM | Product Data Management / product designer management |
 | UE | User Experience |
 | UX | User Experience |
@@ -62,7 +61,6 @@
 | TL;DR | Too Long; Didn't Read. |
 | cal | calculation |
 | UAT | User Acceptance Test |
-| AQS | AbstractQueuedSynchronizer |
 | OOM | out of memory |
 | OSS | Object Storage Service |
 | lck | lock |
@@ -112,9 +110,7 @@
 | DTO | Data Transfer Object |
 | POJO | plain ordinary java object |
 | CC | Carbon Copy |
-| WIP | Work In Progress |
 | LGTM | Looks Good To Me Riview |
-| PTAL | Please Take A Look |
 | ACK | acknowledgement |
 | TPS | Transaction Per Second |
 | RDF | Resource Description Framework |
