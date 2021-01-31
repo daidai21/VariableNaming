@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Conetnt** | ----- |
+| JFR | java flight recorder |
 | UGC | User Generated Content |
 | PGC | Professionally-generated Content |
 | OGC | Occupationally Generated Content |
@@ -14,6 +15,10 @@
 | GGC | Government Generated Content |
 | CGC | Company Generated Content |
 | **Universal** | ----- |
+| pom | project object model |
+| AMQP | Advanced Message Queuing Protocol |
+| MQTT | Message Queuing Telemetry Transport |
+| CLI | Command-Line Interface |
 | MCN | Multi-Channel Network |
 | byr | buyer |
 | SEO | search-engine-optimization |
@@ -238,6 +243,8 @@
 | inv | inverse |
 | lim | limit |
 | mp | map |
+| img | image |
+| avg | average |
 | mst | minimal spanning tree |
 | mul | multiply |
 | pa | pair |
