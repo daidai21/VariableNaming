@@ -15,6 +15,7 @@
 | GGC | Government Generated Content |
 | CGC | Company Generated Content |
 | **Universal** | ----- |
+| tbl | table |
 | pom | project object model |
 | AMQP | Advanced Message Queuing Protocol |
 | MQTT | Message Queuing Telemetry Transport |
