@@ -2,19 +2,14 @@
 
 | Short Name | Full Name |
 | :-: | :-: |
-| **Conetnt** | ----- |
-| JFR | java flight recorder |
-| UGC | User Generated Content |
-| PGC | Professionally-generated Content |
-| OGC | Occupationally Generated Content |
-| MGC | Machine Generated Content |
-| PUGC | Professional User Generated Content |
-| MCNGC | Multi-Channel Network Generated Content |
-| BGC | Brand Generated Content |
-| AGC | Advertising Generated Content |
-| GGC | Government Generated Content |
-| CGC | Company Generated Content |
 | **Universal** | ----- |
+| SDK | Software Development Kit |
+| LINQ | Language Integrated Query |
+| UB | undefined behavior |
+| SOF | StackOverFlow |
+| svr | server |
+| AST | Abstract Syntax Tree |
+| PEG | Parsing Expression Grammars |
 | CSP | Communicating Sequential Process |
 | tbl | table |
 | pom | project object model |
@@ -74,6 +69,7 @@
 | pt | partition |
 | UAT | User acceptance testing |
 | SSL | Secure Sockets Layer |
+| TLS | Transport Layer Security |
 | T | Type |
 | E | Element |
 | JUC | java.util.concurrent |
@@ -218,6 +214,24 @@
 | TDD | test driven development |
 | rt | return |
 | TDD | Test-Driven Development |
+| **Conetnt** | ----- |
+| JFR | java flight recorder |
+| UGC | User Generated Content |
+| PGC | Professionally-generated Content |
+| OGC | Occupationally Generated Content |
+| MGC | Machine Generated Content |
+| PUGC | Professional User Generated Content |
+| MCNGC | Multi-Channel Network Generated Content |
+| BGC | Brand Generated Content |
+| AGC | Advertising Generated Content |
+| GGC | Government Generated Content |
+| CGC | Company Generated Content |
+| **Management System** |  |
+| CMS | content management system |
+| OMS | order management system |
+| PMS | product management system |
+| SMS | sell management system |
+| UMS | user management system |
 | **DataStructure and Algorithm** | ----- |
 | dim | dimensionality |
 | stk | stack |
