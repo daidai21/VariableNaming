@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| WSGI | Web Server Gateway Interface |
+| CGI | Common Gateway Interface |
+| ARQ | Automatic Repeat-reQuest |
 | SDK | Software Development Kit |
 | LINQ | Language Integrated Query |
 | UB | undefined behavior |
@@ -26,6 +29,7 @@
 | FSM | finite-state machine |
 | BFF | Backends for frontends |
 | PMO | Project management office |
+| PO | Product Owner |
 | SLOC | Source lines of code |
 | CR | code review |
 | nil | null |
