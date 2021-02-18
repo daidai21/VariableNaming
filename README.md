@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| FYI | For Your Information |
+| TSD | Thread Specific Data |
 | WSGI | Web Server Gateway Interface |
 | CGI | Common Gateway Interface |
 | ARQ | Automatic Repeat-reQuest |
