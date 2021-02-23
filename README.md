@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ln | line |`
+| RPC | Remote Procedure Call |
 | FYI | For Your Information |
 | TSD | Thread Specific Data |
 | WSGI | Web Server Gateway Interface |
