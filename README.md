@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| IaC | Infrastructure as Code |
 | ln | line |`
 | RPC | Remote Procedure Call |
 | FYI | For Your Information |
