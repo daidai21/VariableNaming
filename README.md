@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| SRE | Site Reliability Engineering |
 | IaC | Infrastructure as Code |
 | ln | line |`
 | RPC | Remote Procedure Call |
