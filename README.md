@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| FYI | for your information |
 | PSD | Poor, Smart And Desperate To Be Rich |
 | SRE | Site Reliability Engineering |
 | IaC | Infrastructure as Code |
