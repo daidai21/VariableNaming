@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| YGC | young gc |
+| FGC | full heap gc |
 | FYI | for your information |
 | PSD | Poor, Smart And Desperate To Be Rich |
 | SRE | Site Reliability Engineering |
