@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| btw | By the way |
+| RTT | round-trip time |
+| RTD | round-trip delay |
+| dbg | DEBUG |
 | YGC | young gc |
 | FGC | full heap gc |
 | FYI | for your information |
