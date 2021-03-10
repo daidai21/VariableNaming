@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ex | example |
+| DTX | Distributed Transaction-eXtended |
 | btw | By the way |
 | RTT | round-trip time |
 | RTD | round-trip delay |
