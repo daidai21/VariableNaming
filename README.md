@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| IC | individual contributor |
 | ex | example |
 | DTX | Distributed Transaction-eXtended |
 | btw | By the way |
@@ -71,6 +72,7 @@
 | UED | User Experience Design |
 | UCD | User Centered Design |
 | pt | Percentage |
+| BaaS | Backend as a Service |
 | FaaS | Function as a Service |
 | ACC | Annual Active Customer |
 | MBT | Model based testing |
