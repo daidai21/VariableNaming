@@ -3,6 +3,12 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| LTS | Long Term Support |
+| DSL | Domain Specific Language |
+| OMS | Order Management System |
+| WMS | Warehouse Management System |
+| ERP | Enterprise Resource Planning |
+| CRM | Customer Relationship Management |
 | IC | individual contributor |
 | ex | example |
 | DTX | Distributed Transaction-eXtended |
