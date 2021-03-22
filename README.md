@@ -3,6 +3,15 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| RBAC | Role-Based Access Control |
+| HA | High Availability |
+| SLA | Service-Level Agreement |
+| rw | read-write |
+| ro | read-only |
+| rr | real-read-only |
+| AUFS | Advanced UnionFS |
+| chroot | change root |
+| pid | process id |
 | LTS | Long Term Support |
 | DSL | Domain Specific Language |
 | OMS | Order Management System |
