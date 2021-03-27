@@ -3,6 +3,13 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| t | thread |
+| th | thread |
+| thr | thread |
+| NUMA | Non-Uniform Memory Access |
+| RAID | Redundant Array of Independent Disks |
+| mod | modify |
+| CSP | Content-Security-Policy |
 | RBAC | Role-Based Access Control |
 | HA | High Availability |
 | SLA | Service-Level Agreement |
@@ -355,7 +362,7 @@
 | CPC | 每点击成本 |
 | CPD | 每下载成本 |
 | CPI | 每安装成本 |
-| CPS | 每销售成本 |
+| CPS | Cost Per Sales 每销售成本 |
 | ASO | App Store Optimization |
 | SEM | Search Engine Marketing |
 | PV | page view |
