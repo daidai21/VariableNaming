@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| spi | Service provider interface |
+| bg | background |
 | t | thread |
 | th | thread |
 | thr | thread |
