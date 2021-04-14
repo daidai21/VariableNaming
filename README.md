@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| pt | partition |
 | spi | Service provider interface |
 | bg | background |
 | t | thread |
