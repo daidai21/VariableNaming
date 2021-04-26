@@ -3,7 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
-| pt | partition |
+| TLD | Top-level Domain |
+| RTB | Realtime Bidding |
+| RTA | Realtime API |
+| ACL | Access Control List |
 | spi | Service provider interface |
 | bg | background |
 | t | thread |
