@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| rds | Relational Database Service |
+| WASM | WebAssembly |
 | TLD | Top-level Domain |
 | RTB | Realtime Bidding |
 | RTA | Realtime API |
