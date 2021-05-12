@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| CEP | complex event processing |
+| cqc | change data capture |
 | rds | Relational Database Service |
 | WASM | WebAssembly |
 | TLD | Top-level Domain |
