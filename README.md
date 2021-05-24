@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| CDC | Change Data Capture |
+| SPA | single page application |
+| SSR | Server-Side Rendering |
 | CEP | complex event processing |
 | cqc | change data capture |
 | rds | Relational Database Service |
