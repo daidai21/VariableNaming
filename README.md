@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| DI | Dependency Injection |
+| JRE | Java Runtime Environment |
+| JDK | Java Development Kit |
+| deque | Double-ended queue |
 | CDC | Change Data Capture |
 | SPA | single page application |
 | SSR | Server-Side Rendering |
@@ -34,7 +38,6 @@
 | pid | process id |
 | LTS | Long Term Support |
 | DSL | Domain Specific Language |
-| OMS | Order Management System |
 | WMS | Warehouse Management System |
 | ERP | Enterprise Resource Planning |
 | CRM | Customer Relationship Management |
