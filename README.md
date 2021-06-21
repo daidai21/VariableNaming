@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| DRM | Digital rights management |
+| SOA | Service-oriented architecture |
+| FAQ | Frequently Asked Questions |
 | DI | Dependency Injection |
 | JRE | Java Runtime Environment |
 | JDK | Java Development Kit |
