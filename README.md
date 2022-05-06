@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| hdlr | handler |
 | DRM | Digital rights management |
 | SOA | Service-oriented architecture |
 | FAQ | Frequently Asked Questions |
