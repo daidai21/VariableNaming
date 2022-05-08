@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| MW | Middleware |
+| WIP | Work in process |
 | hdlr | handler |
 | DRM | Digital rights management |
 | SOA | Service-oriented architecture |
