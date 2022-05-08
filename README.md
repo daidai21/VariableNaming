@@ -3,6 +3,10 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| PoS | Proof of Stake |
+| Nonce | Number once |
+| PoW | Proof of Work |
+| DLT | Distributed Ledger Technology |
 | MW | Middleware |
 | WIP | Work in process |
 | hdlr | handler |
