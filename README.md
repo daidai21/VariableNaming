@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| YTD | Year to date |
 | PoS | Proof of Stake |
 | Nonce | Number once |
 | PoW | Proof of Work |
