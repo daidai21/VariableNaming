@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| RDS | redis |
+| CH | clickhouse |
 | YTD | Year to date |
 | PoS | Proof of Stake |
 | Nonce | Number once |
