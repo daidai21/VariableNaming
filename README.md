@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| DA | Data Analyst |
+| omit | . |
+| idle | . |
 | RDS | redis |
 | CH | clickhouse |
 | YTD | Year to date |
