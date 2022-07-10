@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| sr | search |
 | DA | Data Analyst |
 | omit | . |
 | idle | . |
