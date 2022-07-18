@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| RD | Research and Development Engineer |
+| FE | Front End |
 | sr | search |
 | DA | Data Analyst |
 | omit | . |
