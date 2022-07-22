@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| idc | internet data center |
 | RD | Research and Development Engineer |
 | FE | Front End |
 | sr | search |
