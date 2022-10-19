@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| sth | somethings |
 | TIL | today I learned |
 | DSN | Data source name |
 | idc | internet data center |
