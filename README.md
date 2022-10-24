@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| acp | accept |
+| act | accept |
 | sth | somethings |
 | TIL | today I learned |
 | DSN | Data source name |
