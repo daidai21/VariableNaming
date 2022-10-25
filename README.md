@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ts | timestamp |
 | acp | accept |
 | act | accept |
 | sth | somethings |
