@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| misc | miscellaneous |
 | cg | consumer group |
 | ts | timestamp |
 | acp | accept |
