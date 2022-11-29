@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| rsp | response |
 | misc | miscellaneous |
 | cg | consumer group |
 | ts | timestamp |
