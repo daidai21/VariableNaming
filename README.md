@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| BE | back end |
+| FE | front end |
 | rsp | response |
 | misc | miscellaneous |
 | cg | consumer group |
