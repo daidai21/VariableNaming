@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| DM | direct message |
 | BE | back end |
 | FE | front end |
 | rsp | response |
