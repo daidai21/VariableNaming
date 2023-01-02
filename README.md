@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| CL | change list |
 | svc | service |
 | DM | direct message |
 | BE | back end |
