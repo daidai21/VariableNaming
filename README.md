@@ -3,6 +3,34 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| lib | library |
+| tpl | template |
+| mod | module |
+| ctr | controller |
+| ctl | controller |
+| act | action |
+| param | parameter |
+| cp | control panel |
+| pass | password |
+| TTL | Time To Live | 
+| cont | content |
+| cur | current |
+| priv | privilege |
+| uid | user_id |
+| mid | member_id | 
+| descrip | description |
+| desc description
+| cate | category 
+| reg | register 
+| dev | develop 
+| nav | navigation |
+| btn | button |
+| ipt | input |
+| calc | calculation |
+| stat | statistic |
+| ext | extension |
+| intro | introduce |
+| admin | administrate |
 | CL | change list |
 | svc | service |
 | DM | direct message |
