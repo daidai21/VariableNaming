@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| kaf | kafka |
 | lib | library |
 | tpl | template |
 | mod | module |
