@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| TL | team leader |
+| TL | technical lead |
 | kaf | kafka |
 | lib | library |
 | tpl | template |
