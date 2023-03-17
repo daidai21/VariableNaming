@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| cfg | config |
 | pd | people day |
 | TL | team leader |
 | TL | technical lead |
