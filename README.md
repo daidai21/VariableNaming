@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| re | review |
+| re | Salary Review |
 | cfg | config |
 | pd | people day |
 | TL | team leader |
