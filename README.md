@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| WIP | work-in-progress |
 | re | review |
 | re | Salary Review |
 | cfg | config |
