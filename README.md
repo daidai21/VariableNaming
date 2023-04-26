@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| GTM | go to market |
 | WIP | work-in-progress |
 | re | review |
 | re | Salary Review |
