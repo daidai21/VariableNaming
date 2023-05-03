@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| DDL | deadline |
+| FYR | for your reference |
+| C2C | Customer to customer |
 | LTV | life time value |
 | GTM | go to market |
 | WIP | work-in-progress |
@@ -122,7 +125,6 @@
 | dbg | DEBUG |
 | YGC | young gc |
 | FGC | full heap gc |
-| FYI | for your information |
 | PSD | Poor, Smart And Desperate To Be Rich |
 | SRE | Site Reliability Engineering |
 | IaC | Infrastructure as Code |
