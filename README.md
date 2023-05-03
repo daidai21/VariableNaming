@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| LTV | life time value |
 | GTM | go to market |
 | WIP | work-in-progress |
 | re | review |
