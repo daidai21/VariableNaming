@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| POC | Point Of Contact |
 | DDL | deadline |
 | FYR | for your reference |
 | C2C | Customer to customer |
