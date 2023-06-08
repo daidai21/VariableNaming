@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| lg | log |
 | POC | Point Of Contact |
 | DDL | deadline |
 | FYR | for your reference |
