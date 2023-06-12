@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| dc | datacenter / data center |
 | lg | log |
 | POC | Point Of Contact |
 | DDL | deadline |
