@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| CSE | Comptuer Science Engineering |
 | dc | datacenter / data center |
 | lg | log |
 | POC | Point Of Contact |
