@@ -3,6 +3,15 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| BE | backend |
+| QA | Quality Assurance |
+| PM | project manager |
+| PD | Production designer |
+| DA | Data analytics |
+| BP | Business Partner |
+| BD | Business Development |
+| PR | Public relations |
+| PE | private equity / Production Engineer |
 | CSE | Comptuer Science Engineering |
 | dc | datacenter / data center |
 | lg | log |
