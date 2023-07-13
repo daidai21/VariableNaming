@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| tx | transaction |
 | BE | backend |
 | QA | Quality Assurance |
 | PM | project manager |
