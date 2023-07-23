@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| FY | Fiscal Year |
 | tx | transaction |
 | BE | backend |
 | QA | Quality Assurance |
