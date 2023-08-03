@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| tst | test |
 | FY | Fiscal Year |
 | tx | transaction |
 | BE | backend |
