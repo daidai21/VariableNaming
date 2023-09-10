@@ -9,6 +9,7 @@
 | QPS | Queries Per Second |
 | QPM | Queries Per Minute |
 | QPH | Queries Per Hour |
+| tst | test |
 | FY | Fiscal Year |
 | tx | transaction |
 | BE | backend |
