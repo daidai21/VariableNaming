@@ -3,6 +3,12 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| IP | Internet Protocol |
+| GMV | Gross Merchandise Volume |
+| RPS | Requests Per Second |
+| QPS | Queries Per Second |
+| QPM | Queries Per Minute |
+| QPH | Queries Per Hour |
 | FY | Fiscal Year |
 | tx | transaction |
 | BE | backend |
