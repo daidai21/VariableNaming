@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| sim | similar |
 | IP | Internet Protocol |
 | GMV | Gross Merchandise Volume |
 | RPS | Requests Per Second |
