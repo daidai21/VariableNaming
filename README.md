@@ -3,7 +3,11 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| lang | language |
+| docs | documents |
+| doc | document |
 | sim | similar |
+| feat | feature |
 | IP | Internet Protocol |
 | GMV | Gross Merchandise Volume |
 | RPS | Requests Per Second |
