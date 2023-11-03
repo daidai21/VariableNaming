@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| res | resource |
 | act | activity |
 | lang | language |
 | docs | documents |
