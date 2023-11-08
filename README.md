@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| bd | builder |
 | res | resource |
 | co | context object | 
 | act | activity |
