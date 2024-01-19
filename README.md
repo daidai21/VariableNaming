@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ACP | Access Control Platform |
 | no | number |
 | bd | builder |
 | res | resource |
