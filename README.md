@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| trd | trade |
+| chnl | channel |
 | ACP | Access Control Platform |
 | no | number |
 | bd | builder |
