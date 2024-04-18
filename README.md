@@ -436,6 +436,7 @@
 | pa | pair |
 | pos | position |
 | prod | product |
+| prd | product |
 | que | queue |
 | res | residual |
 | suc | succeed |
