@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| dft | default |
 | TL | timeline |
 | trd | trade |
 | chnl | channel |
