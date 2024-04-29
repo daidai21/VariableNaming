@@ -3,6 +3,13 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| sls | sales |
+| inv | inventory |
+| srv | service |
+| prmt | promotion |
+| itm | item |
+| buyer | byr |
+| slr | seller |
 | dft | default |
 | TL | timeline |
 | trd | trade |
