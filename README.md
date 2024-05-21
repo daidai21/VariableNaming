@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| qlt | quality |
 | sls | sales |
 | inv | inventory |
 | srv | service |
