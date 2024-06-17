@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| flw | flow |
+| clk | click |
+| ent | entity |
 | qlt | quality |
 | sls | sales |
 | inv | inventory |
