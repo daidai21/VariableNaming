@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| conn | connect |
 | flw | flow |
 | clk | click |
 | ent | entity |
