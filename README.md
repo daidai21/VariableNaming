@@ -506,3 +506,5 @@
 | SEM | Search Engine Marketing |
 | PV | page view |
 | UV | user view |
+| **Business Logic** | ----- |
+| tt | tiktok |
