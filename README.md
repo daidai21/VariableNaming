@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| rtn | return |
 | conn | connect |
 | flw | flow |
 | clk | click |
