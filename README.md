@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| spec | specification |
 | rtn | return |
 | conn | connect |
 | flw | flow |
