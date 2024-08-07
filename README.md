@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| topo | topology |
 | spec | specification |
 | rtn | return |
 | conn | connect |
@@ -13,6 +14,7 @@
 | sls | sales |
 | inv | inventory |
 | srv | service |
+| svr | service |
 | prmt | promotion |
 | itm | item |
 | buyer | byr |
