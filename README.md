@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| mgt | management |
+| mgmt | management |
 | ele | element |
 | topo | topology |
 | spec | specification |
