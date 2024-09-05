@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| mlm | million |
 | mgt | management |
 | mgmt | management |
 | ele | element |
