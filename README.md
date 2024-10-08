@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| mkt | market |
 | mlm | million |
 | mgt | management |
 | mgmt | management |
