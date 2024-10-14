@@ -3,6 +3,9 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| ol | order line |
+| mo | main order |
+| co | combine order |
 | mkt | market |
 | mlm | million |
 | mgt | management |
