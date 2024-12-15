@@ -3,6 +3,12 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+config | configuration
+| id | identifier |
+| stats | statistics |
+| biz | business |
+| arg | argument |
+| init | initialization |
 | ol | order line |
 | mo | main order |
 | co | combine order |
