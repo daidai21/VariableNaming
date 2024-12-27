@@ -3,7 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
-config | configuration
+| config | configuration |
+| n | and |
 | id | identifier |
 | stats | statistics |
 | biz | business |
