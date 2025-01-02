@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| s | self |
 | config | configuration |
 | n | and |
 | id | identifier |
