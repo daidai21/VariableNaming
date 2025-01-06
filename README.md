@@ -4,6 +4,7 @@
 | :-: | :-: |
 | **Universal** | ----- |
 | s | self |
+| ins | instance |
 | config | configuration |
 | n | and |
 | id | identifier |
