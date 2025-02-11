@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| wh | warehouse |
 | s | self |
 | ins | instance |
 | config | configuration |
