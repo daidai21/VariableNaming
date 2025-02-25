@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| sf | singleflight |
 | wh | warehouse |
 | s | self |
 | ins | instance |
