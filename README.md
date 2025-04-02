@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| rst | result |
 | sf | singleflight |
 | wh | warehouse |
 | s | self |
