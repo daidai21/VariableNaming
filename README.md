@@ -3,6 +3,7 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| iml | implement |
 | rst | result |
 | sf | singleflight |
 | wh | warehouse |
