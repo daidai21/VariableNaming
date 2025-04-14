@@ -3,6 +3,12 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| rResp | RpcResponse | 
+| rResponse | RpcResponse | 
+| rpcResp | RpcResponse | 
+| rReq | RpcRequest |
+| rRequest | RpcRequest |
+| rpcReq | RpcRequest |
 | repos | repository |
 | repo | repository |
 | iml | implement |
