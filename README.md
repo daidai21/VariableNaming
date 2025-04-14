@@ -3,6 +3,8 @@
 | Short Name | Full Name |
 | :-: | :-: |
 | **Universal** | ----- |
+| repos | repository |
+| repo | repository |
 | iml | implement |
 | rst | result |
 | sf | singleflight |
